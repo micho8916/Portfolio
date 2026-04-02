@@ -52,10 +52,10 @@ export default [
         </div>
         <div class="paragraph">
             <div class="notice">
-                현재 구상단계이 있습니다.
+                현재 구상단계중입니다.
             </div>
         </div>
         `, 
-        "#D2B48C" // 민트색 포인트 컬러
+        "#D2B48C"
     )
 ];
