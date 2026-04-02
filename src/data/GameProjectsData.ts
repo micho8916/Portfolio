@@ -37,7 +37,7 @@ export default [
             <img class="pc-screenshot" src="img/projects/apple-pang-2.png" alt="사과팡 스크린샷 2" />
         </div>
         `, 
-        "#FFFDF0",
+        "#D2B48C",
         true // PC 기반 게임이면 false, 모바일이면 true
     ),
 
@@ -48,15 +48,14 @@ export default [
         "img/projects/gacha-icon.png", 
         `
         <div class="paragraph">
-            <strong>마이온가챠</strong>는 핑크와 민트색을 메인으로 한 UI 디자인 프로젝트입니다.
+            <strong>마이온가챠</strong>는 유저가 직접 만든 콘텐츠를 가챠 형태로 패키징하여 URL 하나로 공유하는 웹 기반 커스텀 굿즈 시뮬레이터입니다.
         </div>
         <div class="paragraph">
-            <ul>
-                <li>사용자 친화적인 가챠 연출 디자인</li>
-                <li>Figma를 활용한 고퀄리티 UI 에셋 제작</li>
-            </ul>
+            <div class="notice">
+                현재 구상단계이 있습니다.
+            </div>
         </div>
         `, 
-        "#98FFD8" // 민트색 포인트 컬러
+        "#D2B48C" // 민트색 포인트 컬러
     )
 ];
