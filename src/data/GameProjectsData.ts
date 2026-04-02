@@ -6,7 +6,7 @@ export default [
     new ProjectData(
         "sugarbee-applepang", // 프로젝트 고유 ID (영문)
         "슈가비의 사과팡(Sugarbee's ApplePang)", // 사이트에 표시될 큰 제목
-        "img/projects/apple-icon.png", // public/img/projects 폴더에 넣을 아이콘 파일명
+        "img/projects/Sugarbee'sApplePang_Title.png",
         `
         <div class="paragraph">
             <strong>슈가비의 사과팡</strong>은 동화풍의 따뜻한 그래픽이 특징인 3-매치 캐주얼 퍼즐 게임입니다.
